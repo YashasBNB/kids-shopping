@@ -1,1 +1,1 @@
-# kids-shopping
+# kidz-world-html-boilerplate
